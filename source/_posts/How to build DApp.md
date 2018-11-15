@@ -11,8 +11,7 @@ tags:
 description: 
 
 ---
-区块链(Blockchain) 是一种突破性技术(Disruptive Technologies)，近年渐获关注。为什么呢？                                                                                                                                                                                                                 
-                                                                                                                                                                                                                                          
+区块链(Blockchain) 是一种突破性技术(Disruptive Technologies)，近年渐获关注，号称将互联网从信息共享，推向价值传递，让我们一步一步的来探索它设计上的奇思妙想~                                                                                                                                                       
 <!-- more -->
 ------
 

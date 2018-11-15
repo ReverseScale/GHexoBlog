@@ -12,7 +12,7 @@ description:
 
 ---
 
-《Design Patterns: Elements of Reusable Object-Oriented Software》（即后述《设计模式》一书），由 Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides 合著（Addison-Wesley，1995），这几位作者常被称为"四人组（Gang of Four）”                                                                                                                                     
+《Design Patterns: Elements of Reusable Object-Oriented Software》（即后述《设计模式》一书），由 Erich Gamma、Richard Helm、Ralph Johnson 和 John Vlissides 合著（Addison-Wesley，1995），这几位作者常被称为"四人组（Gang of Four）”~
 
 <!-- more -->
 ------

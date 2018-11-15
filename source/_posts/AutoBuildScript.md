@@ -13,7 +13,8 @@ photos:
 	- http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-14/88488532.jpg
 ---
 
-> 三步配置，杜绝污染，一行命令自动上传                                                                                                                                                                                                                                                           
+使用 Jenkins 运行 Fastlane 命令，实现定时自动打包、修改版本号、上传 Fir 或者 TestFlight 等功能，从此再也不用被小伙伴追着要测试包。
+> 三步配置，杜绝污染，一步操作自动上传~                                                                                                           
 
 <!-- more -->
 

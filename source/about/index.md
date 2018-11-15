@@ -4,15 +4,13 @@ date: 2015-08-16 14:58:08
 comments: false
 ---
 
-
-
-#### 👨🏻‍💻 职业：程序员劝退师
-
 {% pullquote right%} 
 Excellence is a continuous process and not an accident. 
 
 Thanks for reading! ~
 {% endpullquote %}
+
+#### 👨🏻‍💻 职业：程序员劝退师
 
 #### 📟 WeChat：WhatsXie
 
