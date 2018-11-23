@@ -7,7 +7,7 @@ categories:
 	- Tips
 keywords: Swift
 tags:
-	- Tips
+	- Swift
 description: 
 
 ---
@@ -15,6 +15,8 @@ Swift 4 发布已经有一段时间了，不知道大家有没有切换到 4.0 �
 
 <!-- more -->
 咱们这次说说 Swift 4.0 对 Dictionary 这个经常会用到的类的改进。
+
+![](http://ghexoblogimages.oss-cn-beijing.aliyuncs.com/18-11-16/54292846.jpg)
 
 ### 自动根据 key 分组
 Dictionary 新增了一个构造方法，可以将给定的一个数组，根据指定的条件进行分组。 来看一个例子:

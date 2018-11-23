@@ -1,13 +1,13 @@
 ---
 title: 使用 CocoaPods 对公有库开源和私有库组件
 layout: post
-date: 2018-03-12 21:56:27
+date: 2017-01-22 21:56:27
 comments: true
 categories:
 	- Tips
 keywords: CocoaPods
 tags:
-	- Tips
+	- iOS
 description: 
 
 ---
@@ -306,7 +306,7 @@ end
 某些组件不影响老版本的依赖使用, 出现问题修改Podfile中的依赖版本即可随时回滚, 给开发了带来极大的便利。
 
 
-### 参考链接:
+### 参考链接
 * CocoaPods创建公有和私有Pod库方法总结（https://www.aliyun.com/jiaocheng/376300.html）
 * CocoaPods Guides(https://guides.cocoapods.org)
 * Private Pods(https://guides.cocoapods.org/making/private-cocoapods.html)

@@ -1,13 +1,13 @@
 ---
 title: iOS RAC 的使用总结
 layout: post
-date: 2018-03-16 22:56:27
+date: 2017-07-16 22:56:27
 comments: true
 categories:
-	- Tips
+	- Summary
 keywords: RAC
 tags:
-	- Tips
+	- iOS
 description: 
 
 ---

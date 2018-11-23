@@ -18,7 +18,5 @@ Thanks for reading! ~
 
 #### 📮 邮件：ReverseScale@iCloud.com
 
-#### 🤖 Github：https://github.com/ReverseScale
-
 
 > 博客新装修，历史文章正在路上...

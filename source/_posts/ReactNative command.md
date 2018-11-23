@@ -7,7 +7,7 @@ categories:
 	- Tips
 keywords: React
 tags:
-	- Tips
+	- ReactNative
 description: 
 
 ---

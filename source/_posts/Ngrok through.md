@@ -1,5 +1,5 @@
 ---
-title: 使用 ngrok 快速实现内网穿透
+title: 使用 Ngrok 快速实现内网穿透
 layout: post
 date: 2018-08-13 11:56:27
 comments: true
@@ -7,11 +7,11 @@ categories:
 	- Tips
 keywords: 内网穿透
 tags:
-	- Tips
+	- Web
 description: 
 
 ---
-实现内网穿透的工具很多，之所以介绍 ngrok，主要还是因为它使用便捷，不用搭建服务器等等麻烦的工序，适合前段开发过程中，快速评估检测项目~                                                                                                                        
+实现内网穿透的工具很多，之所以介绍 Ngrok，主要还是因为它使用便捷，不用搭建服务器等等麻烦的工序，适合前段开发过程中，快速评估检测项目~                                                                                                                        
 
 <!-- more -->
 ------

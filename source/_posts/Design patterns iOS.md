@@ -1,10 +1,10 @@
 ---
 title: iOS 开发中常用的设计模式
 layout: post
-date: 2017-02-21 14:56:27
+date: 2016-09-21 14:56:27
 comments: true
 categories:
-	- Book
+	- Design Patterns
 keywords: 设计模式
 tags:
 	- Book

@@ -1,5 +1,5 @@
 ---
-title: Swift 4.0 新特征汇总及演示附 Demo
+title: Swift 4.0 新特征汇总及演示
 layout: post
 date: 2018-03-09 21:16:27
 comments: true
@@ -7,7 +7,7 @@ categories:
 	- Project
 keywords: Swift
 tags:
-	- Project
+	- Swift
 description: 
 
 ---

@@ -7,7 +7,7 @@ categories:
 	- Tips
 keywords: 适配
 tags:
-	- Tips
+	- iOS
 description: 
 
 ---

@@ -1,5 +1,5 @@
 ---
-title: 基于 Aspects 深入了解 AOP（面向切面编程）
+title: 基于 Aspects 深入了解 AOP
 layout: post
 date: 2018-03-23 21:56:27
 comments: true
@@ -7,7 +7,7 @@ categories:
 	- Project
 keywords: AOP
 tags:
-	- Project
+	- iOS
 description: 
 
 ---

@@ -1,10 +1,10 @@
 ---
 title: GoF 设计模式 + 情景再现
 layout: post
-date: 2017-03-01 20:29:16
+date: 2016-03-01 20:29:16
 comments: true
 categories:
-	- Book
+	- Design Patterns
 keywords: 设计模式
 tags:
 	- Book
