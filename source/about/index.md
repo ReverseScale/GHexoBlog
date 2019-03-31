@@ -10,7 +10,7 @@ Excellence is a continuous process and not an accident.
 Thanks for reading! ~
 {% endpullquote %}
 
-#### 👨🏻‍💻 职业：程序员劝退师
+#### 👨🏻‍💻 职业：移动开发工程师
 
 #### 📟 WeChat：WhatsXie
 
